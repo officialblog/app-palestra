@@ -16,7 +16,7 @@ Applicazione web per il tracking degli allenamenti in palestra con assistente AI
 ### Prerequisiti
 
 1. Account GitHub
-2. Account Netlify
+2. Account Vercel
 3. API Key di Google Gemini ([Ottienila qui](https://makersuite.google.com/app/apikey))
 
 ### Passi per il Deploy
@@ -24,7 +24,7 @@ Applicazione web per il tracking degli allenamenti in palestra con assistente AI
 1. **Fork o clona questo repository**
 
 2. **Connetti il repository a Netlify**
-   - Vai su [Netlify](https://app.netlify.com/)
+   - Vai su Vercel
    - Click su "New site from Git"
    - Seleziona GitHub e autorizza
    - Scegli questo repository
